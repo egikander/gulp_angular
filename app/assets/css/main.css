@@ -1,0 +1,25 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+h1 {
+    text-align: center;
+    top: 20px;
+}
+
+.kitty {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 264px;
+    height: 264px;
+    margin-top: -132px;
+    margin-left: -132px;
+}
+
+/* CSS code here */
